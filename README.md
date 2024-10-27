@@ -1,8 +1,6 @@
-Here’s a suggested README file to guide users on using this project, based on the files provided:
 
----
 
-# Project Title
+# Automailer
 
 ## Description
 
